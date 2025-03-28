@@ -1,0 +1,11 @@
+#Automatically generated files
+**/.CondaPkg
+**/.DS_Store
+**/._*
+
+#Raw data files are too big for GitHub
+*.gz
+Raw_ME_configs/
+Processed_ME_configs/
+Results_MD_3D/
+Results_MD_1D/
